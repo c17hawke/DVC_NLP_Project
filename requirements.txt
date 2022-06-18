@@ -5,5 +5,9 @@ mkdocs-material
 ipykernel
 PyYAML
 tqdm
+dvc
+Scipy
+Scikit-learn
+lxml
 ### local packages -
-# -e . # << uncomment this to install from setup.py
+-e . # << uncomment this to install from setup.py
