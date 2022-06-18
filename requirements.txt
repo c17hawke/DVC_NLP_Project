@@ -1,0 +1,9 @@
+numpy
+pandas
+sklearn
+mkdocs-material
+ipykernel
+PyYAML
+tqdm
+### local packages -
+# -e . # << uncomment this to install from setup.py
