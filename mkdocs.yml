@@ -4,12 +4,12 @@ site_name: REPO_NAME_OR_SITE_NAME
 nav:
   - Home: index.md
 
-site_author: Sunny Bhaveen Chandra
+site_author: Sushant Sur
 site_description: >-
   DESCRIPTION
 # Repository
-repo_name: c17hawke/REPO_NAME
-repo_url: https://github.com/c17hawke/REPO_NAME
+repo_name: sushantsur23/DVC_NLP_Project.git
+repo_url: https://github.com/sushantsur23/DVC_NLP_Project.git
 
 # Configuration
 theme:
