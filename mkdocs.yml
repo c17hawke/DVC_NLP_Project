@@ -1,5 +1,5 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: https://github.com/sushantsur23/DVC_NLP_Project.git
 # defeine TOC or order of website-
 nav:
   - Home: index.md
