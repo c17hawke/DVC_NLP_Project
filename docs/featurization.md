@@ -8,7 +8,7 @@
 
 ### Step 04- Apply TFIDF
 
-### Step 05- Apply same steps for test data as well other than the fit method
+### Step 05- Apply same steps for test data but without the fit method
 
 ### Step 06- Save the data in form of pkl object
 
