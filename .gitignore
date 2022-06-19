@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 mylib23/
+artifacts/prepared/test.tsv
+artifacts/prepared/train.tsv
