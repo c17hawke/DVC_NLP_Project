@@ -32,6 +32,7 @@ def process_posts(fd_in, fd_out_train, fd_out_test, target_tag, split):
 
 
 def save_matrix(df, text_matrix, out_path):
+    # print("summary: >>>>>>>>>>>>>>>\n",df.describe())
     pid_matrix = sparse.csr_matrix(df.pid.astype(np.int64)).T
     label_matrix = sparse.csr_matrix(df.label.astype(np.int64)).T
 
