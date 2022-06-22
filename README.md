@@ -32,3 +32,17 @@ dvc init
 ```
 
 ### STEP 06- commit and push the changes to the remote repository
+
+
+
+```
+Steps pending
+dvc repro
+dvc init
+commit changes to git
+dvc repro
+dvc dag
+dvc plots diff
+
+
+```
