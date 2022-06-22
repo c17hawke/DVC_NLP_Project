@@ -70,10 +70,8 @@ markdown_extensions:
   
 plugins:
     - search:
-        indexing: 'full'
+
 
 copyright: |
   &copy; 2022 <a href="https://github.com/sushantsur23"  target="_blank" rel="noopener">Sushant Sur</a>
 
-extra_css:
-    - css/extra.css
