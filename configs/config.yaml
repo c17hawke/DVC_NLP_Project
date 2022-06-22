@@ -9,7 +9,7 @@ artifacts:
   FEATURIZED_DATA_TRAIN: train.pkl
   FEATURIZED_DATA_TEST: test.pkl
   MODEL_DIR: model
-  MODEL_DIR: model.pkl
+  MODEL_NAME: model.pkl
 
 metrics:
   SCORES: scores.json
