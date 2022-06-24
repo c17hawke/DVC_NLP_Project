@@ -17,7 +17,7 @@ stages:
     - artifacts/prepared
     outs:
     - artifacts/features
-  
+
   train:
     cmd: python src/stage_03_train.py
     deps:
@@ -26,6 +26,7 @@ stages:
     - artifacts/features/train.pkl
     outs:
     - artifacts/model/model.pkl
+
 
   evaluate:
     cmd: python src/stage_04_evaluate.py
