@@ -6,6 +6,8 @@ nav:
   - Home: index.md
   - Data-prep-stage: data_prep.md
   - Featurization: featurization.md
+  - Training: train.md
+  - Evaluation: evaluation.md
 
 site_author: Sushant Sur
 site_description: >- 
