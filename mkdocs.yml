@@ -16,7 +16,7 @@ repo_url: https://github.com/sushantsur23/DVC_NLP_Project
 
 # Configuration
 theme:
-  name: ivory
+  name: PSinder
   features:
     - navigation.tabs
     - navigation.sections
