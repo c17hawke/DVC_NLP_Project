@@ -9,8 +9,8 @@ nav:
   - Training: train.md
   - Evaluation: evaluation.md
 
-site_author: Sushant Sur
-site_description: >- 
+site_author: sushantsur23
+site_description: >
   DESCRIPTION
 # Repository
 repo_name: sushantsur23/DVC_NLP_Project
